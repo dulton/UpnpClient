@@ -3,7 +3,7 @@
 //#include "resource.h"
 
 
-//CString Curlplus::buffer;
+//CString Curlplus::buffer; lynn
 
 
 
