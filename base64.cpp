@@ -1,5 +1,5 @@
 
-/*
+/*lynn
 
 Copyright (C) 2007 Coolsoft Company. All rights reserved.
 
